@@ -10,6 +10,7 @@ From this directory, run `python3 -m http.server 8080 --directory dist` and visi
 
 - Nine original activities from the supplied folder, with visual summaries and original artifact links.
 - Five clearly labeled reconstructed drafts based on instruction screenshots. Drafts are also in `content/*-draft.md` and can be downloaded from each showcase.
+- TLA #1: Translating Learning Principles into Educational Technology Solutions includes the [original Figma prototype](https://font-curry-74082259.figma.site) and `Mahipus_Learning Principles.pdf`.
 - The arrays lab is a new implementation inspired by the supplied theoretical alignment document, not a recovered Figma file.
 - The strategy analysis provisionally uses Computer Components; the assigned group and exact three-filter rubric were not visible.
 - Source inconsistencies are noted inside the applicable showcases. Original artifacts remain unchanged.
