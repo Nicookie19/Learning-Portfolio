@@ -1,0 +1,293 @@
+Name: Nico Mahipus 
+Section: BSIT 3A 
+Classroom Management Plan 
+Subject area: Computer Programming 
+Year level: 1st year college, about 35 learners per class, ages 18 to 20, 60 minute 
+sessions held in a classroom with a computer lab used once a week. 
+Learner profile: 
+•
+Age and interests: Early adolescents who are active on social media, games, and 
+short videos. They respond well to projects that connect to what they already use 
+apps, games, websites. 
+•
+•
+Learning abilities: A mixed-ability class. A few learners already code on their 
+own, many are beginners, and some read and follow written instructions slowly. 
+•
+•
+Classroom behavior: Energetic and talkative, easily pulled toward phones and 
+unrelated browser tabs, and some are shy about asking for help in front of peers. 
+•
+•
+Possible challenges: Uneven access to devices and internet at home, low 
+confidence after early errors in coding, group work in which one member does 
+everything, and difficulty restarting after a break. 
+•
+Guiding belief: Most misbehavior is a signal that a need is unmet like clarity, confidence, 
+belonging, or attention. My plan therefore prevents problems first, teaches expectations 
+explicitly, and responds to behavior by looking at its cause before choosing a 
+consequence. 
+
+1. Rules and Expectations 
+I will co create these with my learners during the first week so they feel that they belong. 
+I will keep the list short, phrase each as what to do, and tie each to a reason. 
+Making the rules clear, fair, and teachable 
+•
+Teach them like content. On Day 1 I model and practice each rule with examples 
+and non examples (for example, a role-play of asking for help properly versus 
+calling out. I will revisit the rules after long breaks and before lab days. 
+•
+Fair for everyone. The rules apply equally to all learners and to me. I will use the 
+same reminders and the same steps for every student, and I will adjust supports, 
+not standards, for learners with special needs. 
+•
+Visible and simple. Rules are posted on the wall and on the first slide of every 
+lesson, with icons for learners who read slowly. 
+•
+•
+Positive reinforcement. I will give specific praise ("Thank you for helping Ana 
+trace her loop without typing for her"), a weekly "Bug Buster" shout-out for helpful 
+behavior, and team points that lead to a class reward such as choosing the 
+warm-up game. 
+•
+Student voice. At mid-term I will run a quick check-in (what is working, what 
+should change) so the rules stay relevant. 
+Rule
+What it looks like
+Why it matters
+Be ready to 
+learn.
+Arrive on time, bring your notebook, log in or open your 
+materials within 3 minutes.
+Our time together is 
+short, and every 
+Use 
+technology 
+Keep screens on the task, and keep phones face-down in 
+the phone parking area unless the activity needs them.
+Focus makes coding 
+easier and faster.
+Speak with 
+respect.
+Use kind words, listen when others talk, and disagree 
+with ideas, not people.
+Everyone should feel 
+safe to try and make 
+Ask and offer 
+help.
+Try first, check your notes, ask a seatmate, then raise 
+your hand or use the help card. Help others by 
+Debugging together 
+is how real 
+Care for our 
+space and 
+Log out, push in chairs, and report problems with devices 
+right away.
+Shared tools stay 
+usable for everyone.
+
+2. Time Management 
+Daily routine for a 60 minute class 
+Transitions 
+•
+Predictable cues. I will use the same signals every day (a chime, a raised hand, 
+and a countdown timer on screen) so that learners know what to do without extra 
+instruction. 
+•
+Teach and rehearse transitions. Early in the term I will practice moving from 
+lecture to pairs and to lab, with a target of under 90 seconds, and let the class 
+beat its own record. 
+•
+Prepared materials. Handouts, starter files, and links are posted in advance on 
+our class page or already open on the lab computers, so no time is lost waiting 
+for materials. 
+•
+Clear directions in three parts. I give directions in three steps (what, how long, 
+what to do when finished), post them on screen, and ask a learner to repeat them 
+back. Protecting time-on-task 
+•
+•
+Bell-to-bell teaching. Learning starts with the entry task, and there is no dead 
+time at the beginning or end. 
+Minute
+s
+Segment
+What happens
+Routine signal
+0 to 5
+Entry task
+A short question or mini-challenge is on the 
+board (for example, predict the output of 3 lines 
+of code). Learners start silently while I take 
+attendance.
+Slide titled "Start 
+Now"
+5 to 10
+Review and 
+objective
+Quick recall of the last lesson, then I state 
+today's learning target and success criteria.
+Chime or 
+countdown
+10 to 25 Mini-lesson
+Direct instruction with live coding, with a 
+check for understanding every 5 minutes 
+(thumbs up, mini whiteboards, or a one-
+question poll).
+"Eyes up" hand 
+signal
+25 to 50
+Guided and 
+independent 
+practice
+Pairs or small groups work on tiered tasks 
+(core, extended, challenge). I circulate, 
+conference, and pull a small group for 
+reteaching.
+Help card: green = 
+fine, yellow = 
+question, red = 
+stuck
+50 to 57 Closure
+Exit ticket: one thing learned, one question 
+remaining.
+Timer on screen
+57 to 60 Reset and 
+dismissal
+Log out, tidy up, and dismiss by row.
+"Reset" song or 3-
+minute timer
+
+•
+Early finisher menu. Extension challenges, peer tutoring, or an open-ended mini-
+project so fast learners stay engaged instead of drifting off-task. 
+•
+Tiered tasks and scaffolds. Sentence starters, code templates, and worked 
+examples keep beginners from giving up, while challenge tasks keep advanced 
+learners moving. 
+•
+Managing technology. Phones go in a phone parking pocket. On lab days I use 
+screen-visible seating, monitoring software or frequent circulation, and a "lids 
+half-down" signal when I need attention. 
+•
+Procedures for common interruptions. Pencil and charger requests, restroom 
+passes, and late arrivals follow set routines that do not require stopping the 
+lesson. Proximity and circulation. I will move around the room so that no group 
+goes more than a few minutes without a check-in. 
+3. Discipline Matrix 
+My approach is preventive first, restorative second, and corrective last. For each likely 
+concern I look for the root cause before choosing an action, and I record repeated 
+patterns to see what needs to change in my teaching. 
+Likely behavior 
+concern
+Possible root causes
+Action steps
+Off-task phone or 
+browser use
+Boredom or task is too 
+easy or too hard; habit; 
+social pressure; learner 
+finished early
+1) Non-verbal cue and proximity. 2) Quiet 
+reminder of the expected action and offer of 
+the next task. 3) Phone placed in the parking 
+pocket until end of class. 4) Private 
+conference to find out what is making the task 
+hard to stay on. 5) Contact the parent or 
+guardian if it recurs.
+Talking out of turn or 
+side conversations
+Need for belonging and 
+attention; unclear 
+directions; energy 
+needs a release
+1) Pause and wait using the attention signal. 
+2) Give the learner a role (for example, group 
+reporter). 3) Seat change with a calm 
+explanation. 4) Private talk about how to share 
+ideas at the right time. 5) Positive 
+reinforcement when the change is shown.
+Not starting work or 
+giving up quickly
+Fear of mistakes, low 
+confidence, gaps in 
+prior knowledge, 
+unclear instructions
+1) Check understanding and restate the task in 
+smaller steps. 2) Provide a template or worked 
+example. 3) Pair with a supportive peer. 4) 
+Celebrate small wins and normalize errors. 5) 
+Refer to remedial support if gaps persist.
+
+Escalation ladder 
+1.
+Prevent: clear expectations, engaging tasks, and strong relationships. 
+2.
+Redirect: non-verbal cue, proximity, or a quiet reminder. 
+3.
+Private talk: one-to-one conversation about the cause and agreement on next 
+steps. 
+4.
+Logical consequence: a consequence connected to the behavior (for example, 
+loss of device privileges for misuse, repairing harm done). 
+5.
+Partnership: call or meeting with the parent or guardian, with guidance counselor 
+involvement and a written support plan. 
+6.
+Referral: school administration for serious or repeated concerns, following the 
+school's student handbook and child protection policy. 
+7.
+Principles I will follow: no public shaming, no punishment that harms dignity, consistent 
+and fair application, documentation of repeated incidents, and always a path back to a 
+fresh start. A classroom runs well when learners know what is expected, feel that their 
+time is used well, and trust that I will respond to them fairly. By teaching expectations 
+explicitly, designing routines that keep learners busy with meaningful tasks, and using a 
+discipline approach that looks for causes first, I aim to create a classroom where every 
+Grade 9 learner can focus, take risks with coding, and grow in responsibility.
+Free-riding in group 
+work
+Unclear roles, one 
+dominant member, low 
+confidence, learner 
+does not feel 
+responsible
+1) Assign rotating roles (driver, navigator, 
+tester, reporter). 2) Each member submits a 
+short individual contribution. 3) Brief group 
+conference on fair sharing. 4) Adjust 
+grouping.
+Disrespectful remarks 
+or teasing
+Seeking attention or 
+status, peer conflict, 
+personal stress, or lack 
+of empathy skills
+1) Address it privately and calmly right away. 
+2) Restate the respect rule and its impact on 
+others. 3) Restorative conversation or apology 
+in action (for example, helping the classmate). 
+4) Behavior reflection form. 5) Involve the 
+guidance counselor and parents for repeated 
+or serious cases.
+Tardiness or frequent 
+absences
+Transportation, family 
+responsibilities, work, 
+health, or loss of 
+interest
+1) Welcome the learner back without shaming. 
+2) Provide a catch-up plan and materials. 3) 
+Ask what support is needed. 4) Coordinate 
+with the adviser, guidance office, and family.
+Defiance or refusal to 
+follow directions
+Feeling embarrassed, 
+power struggle, stress, 
+or unmet needs outside 
+school
+1) Stay calm, give a private choice ("You can 
+start with the first task or work in the quiet 
+corner"). 2) Give cool-down time. 3) Follow-
+up conversation to find out the cause. 4) 
+Written behavior agreement. 5) Referral to the 
+guidance counselor and parent conference.

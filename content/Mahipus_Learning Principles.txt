@@ -1,0 +1,54 @@
+Theoretical Alignment Document 
+Prototype: Understanding Arrays: Interactive Learning Module (Figma Prototype) 
+Target Topic: Basic data structures 
+Learner Audience: 1st-year IT/CS students with no prior programming background, but 
+familiar with everyday sequential lists for example grocery lists, seat numbers. 
+SMART Objective: By the end of the module, learners will correctly identify and access 
+array elements using index notation with 90% accuracy on a 5-item practice quiz, within 
+a 15-minute session. 
+Theorist Mapping 
+The wireframe's four-screen flow was deliberately structured so each screen 
+operationalizes a specific Week 7 learning principle, rather than treating theory as 
+decoration layered on top of the UI. 
+1. Edward Thorndike Law of Readiness 
+Core Idea: Learning is effective when the learner is mentally prepared and the new 
+material connects to existing knowledge. 
+Where it appears: Screen 1 (Warm-Up) The mailbox/parking-slot analogy acts as a 
+"meaning bridge," letting learners map a familiar real-world index system onto the 
+abstract concept of arrays before any code is shown. 
+2. John Dewey Learning by Doing 
+Core Idea: Knowledge is constructed through direct, hands-on experience and multi-
+sensory interaction, not passive reading. 
+Where it appears: Screen 2 (Drag-and-Drop) Learners physically drag value blocks into 
+indexed slots and get real-time visual and audio feedback, turning the abstract concept 
+of indexing into an experienced action rather than a definition read on screen. 
+3. Thorndike Law of Exercise 
+Core Idea: Connections between stimulus and response are strengthened through 
+repeated, guided practice. 
+
+Where it appears: Screen 3 (Guided Practice) The array-indexing exercise "Which box 
+does array[2] point to?" gives learners a low-stakes, repeatable task with a hint option, 
+reinforcing the index-to-value connection through active recall. 
+4. Thorndike Law of Effect / Psychological Safety 
+Core Idea: Responses followed by satisfaction are strengthened; responses followed by 
+discomfort are weakened. Learning persists best in an emotionally safe environment. 
+Where it appears: Screen 4 (Feedback States) Success is met with a warm, celebratory 
+modal; errors are met with a non-punitive, supportive modal like soft colors, no red/X 
+icon, "Close! Counting starts at 0 want to try again?" that reframes mistakes as part of 
+practice, encouraging retry rather than discouragement. 
+5. Herman Horne Facilitated Self-Activity 
+Core Idea: The teacher/system's role is to design an environment that facilitates the 
+learner's own self-directed activity, not to transmit information directly. 
+Where it appears: Across Screens 2 to 4 The interface never simply states the rule for 
+indexing; it structures an environment such as the draggable blocks, hint button, retry 
+loop, progress stepper in which the learner discovers and self-corrects the rule through 
+their own actions, with the system facilitating rather than lecturing. 
+Design Rationale Summary 
+Read top to bottom, the four screens form a single instructional arc grounded in Week 7 
+theory: Readiness (Screen 1) opens the emotional and cognitive door, Active Learning 
+(Screen 2) walks the learner through it via direct manipulation, Exercise (Screen 3) 
+reinforces the pathway through repeatable practice, and the Law of Effect (Screen 4) 
+determines whether that pathway is strengthened (through positive reinforcement) or 
+safely revisited through empathetic error recovery with Horne's facilitated self-activity 
+governing the interaction model throughout, since the system guides discovery rather 
+than dictating answers. 

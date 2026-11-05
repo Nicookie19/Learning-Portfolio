@@ -1,0 +1,21 @@
+Name: Nico Mahipus 
+Section: BSIT 3A 
+​
+For me I believe assessment is not the end of learning but part of it. Its main 
+purpose is to show learners where they are, where they need to go, and how to get 
+there. A score alone cannot do that. Assessment should therefore help learners 
+improve by giving them clear information they can act on, not just a grade to accept. 
+For assessment to help learners improve, it must come with timely, specific 
+feedback. Comments such as "good job" or “needs work” teach very little, while 
+feedback like “your logic is sound, but your loop does not handle an empty list” tells 
+a learner exactly what to fix. I would use formative assessments such as short 
+quizzes, exit tickets, practice tasks, and draft submissions, and give learners the 
+chance to revise their work. Mistakes become the starting point for learning instead 
+of the final verdict. 
+I believe fair, valid, and transparent assessment rests on three commitments. It is 
+fair when every learner has an equal chance to show what they know, which means 
+considering different learning needs, offering varied formats where appropriate, and 
+avoiding trick questions. It is valid when it measures what was actually taught: if I 
+teach problem-solving, I should not grade memorization. It is transparent when 
+learners know the expectations before they begin. 
+ 

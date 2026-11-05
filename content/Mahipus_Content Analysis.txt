@@ -1,0 +1,139 @@
+Name: Nico Mahipus 
+Section: BSIT-3A 
+Part 1: Concept Check 
+Content selection criteria are the standards used to decide what belongs in a lesson. 
+The common ones are: 
+•
+Validity: content actually aligns with the stated objectives. 
+•
+•
+Significance: it contributes something meaningful/transferable, not trivia. 
+•
+•
+Learnability: it’s appropriate to students' developmental level and prior 
+knowledge. 
+•
+•
+Feasibility: it can realistically be taught in the time/resources available. 
+•
+•
+Interest: it’s relevant to learners' needs or future use. 
+•
+•
+Simple to complex: basics before advanced application. 
+•
+•
+Prerequisite learning: skill A must come before skill B if B depends on A. 
+•
+•
+Chronological: order of events in time. 
+•
+Known to unknown: build on what students already know. 
+A sequence is flawed when it violates prerequisite learning asks students to do 
+something before they've learned how or when assessment/application happens before 
+instruction. 
+
+Part 2: Application 
+Problems in the outline; 
+1. Monday: Had a wrong sequence since it violates prerequisite learning students are 
+asked to rewrite and defend a curriculum outline on Day 1, before they've been taught 
+what content selection criteria or sequencing patterns even are. This is the most 
+advanced task in the whole week, and its placed first. It's like asking students to edit an 
+essay before teaching them grammar. 
+2. Wednesday: Had the wrong sequence because they did an advanced task too early 
+an advanced critique activity involving a multi subject curriculum is scheduled on Day 3, 
+right after only one day Tuesday of introductory content. Critique of a complex case is a 
+higher-order skill that should come after students have practiced on simpler examples 
+not right after the first exposure to the concept. 
+3. Thursday: misplaced assessment 
+A 10 item quiz on content selection criteria is given on Thursday, but content selection 
+criteria isn't actually taught until Friday's lecture. Students are tested on material before 
+it's presented this violates basic instructional logic assessment should follow instruction, 
+not precede it. 
+4. Friday: A foundational content placed last 
+The lecture on basic concepts of content selection is the most foundational, introductory 
+content in the whole unit, yet it's taught last. Foundational content should anchor the 
+sequence at the start, since sequencing Tuesday and critique Wednesday both depend 
+on understanding selection criteria first. 
+5. Overall outcome misalignment 
+Because of the ordering, several outcomes are unreachable when scheduled Monday's 
+outcome justify their revised outline requires knowledge students don't have yet; 
+Thursday's outcome recall important concepts tests unlearned concepts. 
+
+Revised Outline 
+Justification for each change 
+•
+Moved the "basic concepts" lecture to Monday from Friday Content selection 
+criteria is the prerequisite foundation for everything else in the unit sequencing, 
+critique, and revision all require students to already know what makes content 
+appropriate. Per the prerequisite learning pattern, foundational knowledge must 
+be taught first. 
+•
+•
+Kept Tuesday's sequencing intro in place This logically follows content selection 
+Monday, since what to teach naturally precedes in what order to teach it. This is 
+valid simple to complex progression. 
+•
+•
+Added a new Wednesday activity simple critique instead of jumping straight to 
+advanced Skipping from one day of theory directly to a multi subject complex 
+critique is too large a jump. Inserting a simple case practice day respects the 
+Day
+Topic
+Intended Outcome
+Monday
+Lecture: basic concepts of content selection 
+and discussion of what makes content 
+appropriate for learners
+Students will identify content 
+selection criteria
+Tuesday
+Introduction to content sequencing and 
+discussion of prerequisite skills
+Students will identify different 
+sequencing methods
+Wednesday
+Introduction to content sequencing and 
+discussion of prerequisite skills
+Students will apply selection/
+sequencing criteria to a basic 
+case
+Thursday
+Advanced critique activity: analyze a 
+complex, multi-subject curriculum and 
+identify all sequencing problems
+Students will analyze curriculum 
+problems
+Friday
+Students rewrite a flawed 1-week outline and 
+defend their revisions and a quiz on concepts
+Students will justify their revised 
+outline and demonstrate recall of 
+key concepts
+
+simple to complex principle and gives students a scaffolded step between 
+concept and complex application. 
+•
+•
+Moved the advanced critique originally Wednesday to Thursday Now that 
+students have practiced on a simple case, they're prepared for the harder, multi 
+subject critique this is the appropriate point in the sequence for a higher-order 
+analytical task. 
+•
+•
+Moved the rewrite and-defend task originally Monday to Friday, and merged the 
+quiz into it as a review/close: This is the most demanding, synthesis level task in 
+the unit it requires students to apply everything selection criteria and sequencing 
+patterns and justify their choices. It belongs at the end, functioning as a capstone 
+or a summative task, not as an opener. The quiz now serves as a check for recall 
+of concepts students have actually already learned, rather than testing unlearned 
+material. 
+•
+•
+General principle applied throughout Instruction, guided practice, independent 
+complex application, assessment. The original outline had this order almost 
+entirely inverted synthesis first, foundational content last, assessment 
+sandwiched in the wrong place. The revision restores a coherent simple to 
+complex, prerequisite respecting flow so that every day's outcome is actually 
+achievable given what students know by that point. 
+•

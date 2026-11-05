@@ -1,0 +1,72 @@
+Name: Nico Mahipus 
+Section: BSIT-3A 
+Learning Objective 1 
+Objective: 
+By the end of the lesson, students will be able to create a basic HTML webpage 
+containing a heading, paragraphs, lists, and hyperlinks with at least 80% accuracy 
+based on the given requirements. 
+SMART Analysis: 
+•
+Specific: Create a webpage with essential elements. 
+•
+Measurable: Includes all required HTML & CSS elements with at least 80% UI/
+UX. 
+•
+Achievable: Appropriate for beginner web development learners. 
+•
+Realistic: Based on lesson demonstrations and practice activities. 
+•
+Timely: Completed within a 60-minute laboratory session. 
+•
+Learning Experience: 
+Students will observe an HTML coding demonstration and complete guided exercises 
+on creating webpage elements such as headings, paragraphs, lists, and hyperlinks. 
+Evidence: 
+Students submit a functioning HTML webpage that includes all required elements and 
+meets at least 80% of the assessment criteria. 
+
+Learning Objective 2 
+Objective: 
+By the end of the class session, students will be able to design and style a webpage 
+using CSS by applying colors, fonts, spacing, and layout properties according to a given 
+design guide. 
+SMART Analysis: 
+•
+Specific: Apply CSS styling to a webpage. 
+•
+Measurable: Correct implementation of required design elements. 
+•
+Achievable: Supported through guided coding activities. 
+•
+Realistic: Matches the learners' current web development skills. 
+•
+Timely: Completed within a 90-minute laboratory session. 
+Learning Experience: 
+Students will follow a demonstration of CSS selectors and properties, then customize 
+their webpage using different styles and layout techniques. 
+Evidence: 
+Students submit a styled webpage that correctly applies the required CSS properties 
+and follows the provided design specifications. 
+
+Learning Objective 3 
+Objective: 
+By the end of the laboratory session, students will be able to develop a responsive 
+multi-section website using HTML and CSS that includes a navigation bar, content 
+sections, images, and a footer that functions correctly on desktop and mobile screens. 
+SMART Analysis: 
+•
+Specific: Create a responsive website with multiple sections. 
+•
+Measurable: Includes navigation bar, content sections, images, and footer. 
+•
+Achievable: Based on previous HTML and CSS lessons. 
+•
+Realistic: Appropriate for introductory web development students. 
+•
+Timely: Completed during a 2 hour laboratory session. 
+Learning Experience: 
+Students will participate in a hands-on web development workshop where they create 
+and test a responsive website using HTML and CSS. 
+Evidence: 
+Students successfully present a responsive website that meets all project requirements 
+and passes functionality and design checks on different screen sizes. 
